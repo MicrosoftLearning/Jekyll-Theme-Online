@@ -5,8 +5,7 @@ lab:
     module: 'Module 0: Placeholder'
 ---
 
-# Lab: Example
-# Student lab manual
+# Example Lab
 
 ## Lab scenario
 
@@ -22,11 +21,9 @@ After you complete this lab, you will be able to:
 
 - Suspendisse eu arcu id velit consequat venenatis.
 
-## Lab Setup
+## Setup
 
   - **Estimated Time**: 00 minutes
-
-# Instructions
 
 ## Before you start
 
