@@ -102,13 +102,6 @@ blockquote p {
     margin-left: 1ch;
 }
 
-blockquote:before {
-    content: "❕";
-    font-weight: bolder;
-    font-size: larger;
-    font-family: segoe-ui, "Segoe UI", "Segoe WP", "Helvetica Neue", Helvetica, sans-serif;
-}
-
 article img {
     max-width: 100%;
 }
